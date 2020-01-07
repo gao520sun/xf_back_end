@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd6b7535-8ffb-4de8-a893-1a15accc5626" name="Default Changelist" comment="" />
+    <list default="true" id="bd6b7535-8ffb-4de8-a893-1a15accc5626" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xfApp/pymysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xfApp/src/website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xfApp/xfMysql/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xfApp/xfMysql/createEngine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xfApp/xfMysql/website.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfApp/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfApp/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xfApp/src/handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/xfApp/src/handler.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VkE56CztzEPJy8E6h2xSkZYpig" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,10 +38,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.server">
+    <configuration name="pymysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xfApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xfApp/pymysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xf" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,6 +91,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.server" />
+        <item itemvalue="Python.pymysql" />
       </list>
     </recent_temporary>
   </component>
@@ -69,7 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577788506103</updated>
-      <workItem from="1577788507561" duration="9313000" />
+      <workItem from="1577788507561" duration="10819000" />
+      <workItem from="1578024785859" duration="589000" />
+      <workItem from="1578032452267" duration="9366000" />
+      <workItem from="1578059057318" duration="2504000" />
+      <workItem from="1578358896536" duration="257000" />
+      <workItem from="1578359221955" duration="47000" />
     </task>
     <servers />
   </component>
@@ -77,24 +130,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1163" height="261" key="GridCell.Tab.0.bottom" timestamp="1577788852476">
+    <state width="1322" height="318" key="GridCell.Tab.0.bottom" timestamp="1578272836024">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1163" height="261" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1577788852476" />
-    <state width="1163" height="261" key="GridCell.Tab.0.center" timestamp="1577788852475">
+    <state width="1322" height="318" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836024" />
+    <state width="1322" height="318" key="GridCell.Tab.0.center" timestamp="1578272836023">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1163" height="261" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1577788852475" />
-    <state width="1163" height="261" key="GridCell.Tab.0.left" timestamp="1577788852474">
+    <state width="1322" height="318" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836023" />
+    <state width="1322" height="318" key="GridCell.Tab.0.left" timestamp="1578272836023">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1163" height="261" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1577788852474" />
-    <state width="1163" height="261" key="GridCell.Tab.0.right" timestamp="1577788852475">
+    <state width="1322" height="318" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836023" />
+    <state width="1322" height="318" key="GridCell.Tab.0.right" timestamp="1578272836024">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1163" height="261" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1577788852475" />
+    <state width="1322" height="318" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836024" />
+    <state width="1322" height="318" key="GridCell.Tab.1.bottom" timestamp="1578272836025">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1322" height="318" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836025" />
+    <state width="1322" height="318" key="GridCell.Tab.1.center" timestamp="1578272836024">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1322" height="318" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836024" />
+    <state width="1322" height="318" key="GridCell.Tab.1.left" timestamp="1578272836024">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1322" height="318" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836024" />
+    <state width="1322" height="318" key="GridCell.Tab.1.right" timestamp="1578272836025">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1322" height="318" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1578272836025" />
+    <state x="625" y="149" key="SettingsEditor" timestamp="1578032469162">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="625" y="149" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578032469162" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/xf$server.coverage" NAME="server Coverage Results" MODIFIED="1577788827790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xfApp" />
+    <SUITE FILE_PATH="coverage/xf$pymysql.coverage" NAME="pymysql Coverage Results" MODIFIED="1578035198380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xfApp" />
+    <SUITE FILE_PATH="coverage/xf$server.coverage" NAME="server Coverage Results" MODIFIED="1578063416539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xfApp" />
   </component>
 </project>

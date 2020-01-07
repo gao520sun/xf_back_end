@@ -1,1 +1,4 @@
 flask
+sqlalchemy=1.3.12
+mysql-connector-python-rf
+MySQL-connector-python
